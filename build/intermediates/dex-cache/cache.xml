@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_277bdc096273ab882fc03fa16b7592408347b635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b1078e87fd09effa146b16a6097e895e4c77a6b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_4a8f625ab2514b966da043a9962915d3f74614e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-1.20.0_6f20b52af82ee60f701513b12e412eae6b11c1b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_6c5304247d8db6cba07ab12a60c6327365062bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-oauth-client-1.20.0_fbd2284aede1fb1acf017bb5e3800322f54013ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-jackson2-1.20.0_6871ca8bdf8a335da7b554886d85807b7faff6a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d1e4a025f296cf63df4f65aadf84091307432d93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_718ac4c48ef81d1cbaad3e82300fdf8eeb221c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_4c9fcb8c172bb1090006dbbff25e0b8880ebdcdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-compat-25.1.0_2ea83e4f5876ea4329ac1e62afc45787621bfcf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_4f64167498dd59e92ed8bf7547cf351d9ed99e21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-1.20.0_7ced25cc893c5c77a5eeca6c0388a1d5c613c8e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3dc779f538398f9f646e0ad313ce10fb2fddd262">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run_bbea2917ed882d62c9bd63655b31aa1897b202ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jsr305-2.0.1_ab3e5bf93fa1d320dea228c5d63626f58b53d148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jackson-core-2.1.3_78a4b3672fa5d1b29a021882f2fa90fc3d4fa280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_7ce854a3d715523306d07da593bedbfe137a898b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_bdb9902da4e30b68c859c0806e636401d3b85857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/guava-jdk5-13.0_9d65d1c0a3f510e3dcabc2b4be711527209bf89d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_25d210b59d0d124e4d0ed90166963cd195520896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-android-1.20.0_b755bf1755f4d5c2cb71bcdf4d2c87d952286ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_327969fe7dfbf86f2947813c082912e6c123fb66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-android-1.20.0_2e32185abec45c6f59bad5b7d48b0ae7c85cfb74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/support-annotations-25.1.0_483e33dda7cf68ea935d48bbee1bd595488d814d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d60b59da41756caefc198a645a55f75cdd1dc2e">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run-bootstrap_abcb6f504660cb0e63b50fbcb6c783d8283481ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_d747d59d783a3cb752211483ae1f0f324f0a620b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ba275a1437601114697f5f335d51bdc1893dcd59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/som/Desktop/android nano degree /55555555/ud867-master 2/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_217f67cffe0881e1e22b8aa33883caa859a9d551/classes.dex" />
+    </item>
+
+</items>
